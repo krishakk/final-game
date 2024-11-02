@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://csf7qtiedkgig"]
 
-[ext_resource type="Script" path="res://scripts/area_2d.gd" id="1_ee2i7"]
+[ext_resource type="Script" path="res://scripts/hanger.gd" id="1_ee2i7"]
 [ext_resource type="Texture2D" uid="uid://wfgk0t5um6fm" path="res://fishes + garbage (moving)/clear hanger.png" id="1_j5v85"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_edbli"]

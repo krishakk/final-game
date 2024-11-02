@@ -10,8 +10,7 @@ func _process(delta):
 func _on_area_entered(area):
 	if area is hook:
 #makes hook scene disspear 		
-		queue_free()
-		
+		queue_free() 
 		
 	
 	
