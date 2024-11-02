@@ -5,7 +5,7 @@ class_name hook
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
 	#if "A" or the left arrow key is pressed the hook will move left as long x axis is bigger than 900 at a speed of 7 
-	if Input.is_action_pressed("hook_left") and position.x <1500:
+	if Input.is_action_pressed("hook_left") and position.x <1080:
 		position.x += 7
 #If "D" or right arrow key is pressed hook will move left till x until x axis is smaller than 40 at a speef of 7		
 	if Input.is_action_pressed("hook_right") and position.x >186:
